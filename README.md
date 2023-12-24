@@ -11,17 +11,24 @@
 
 ### Overview
 
-Welcome to the English Excellence team project! Our mission is to provide an outstanding English learning experience through a one-page website. This project allows users to change themes, choose a teacher, and receive personalized assistance.
+Welcome to the English Excellence team project! Our mission is to provide an
+outstanding English learning experience through a one-page website. This project
+allows users to change themes, choose a teacher, and receive personalized
+assistance.
 
 ### Project Goals
 
 Our primary goals for the English Excellence project are as follows:
 
-1. **Create an Engaging Learning Experience**: Design and develop a one-page website that offers an engaging and effective English learning experience for users.
+1. **Create an Engaging Learning Experience**: Design and develop a one-page
+   website that offers an engaging and effective English learning experience for
+   users.
 
-2. **User-Friendly Interface**: Ensure a user-friendly interface that caters to learners of all levels and backgrounds.
+2. **User-Friendly Interface**: Ensure a user-friendly interface that caters to
+   learners of all levels and backgrounds.
 
-3. **Accessible Resources**: Provide links to relevant resources, aiding users in expanding their English language skills.
+3. **Accessible Resources**: Provide links to relevant resources, aiding users
+   in expanding their English language skills.
 
 ## Project Structure
 
@@ -40,13 +47,16 @@ The website is structured into the following sections:
 ## Project Contributors
 
 - [Sofia Protsiv](https://github.com/SofiaProtsiv) - Team Lead
-- [Nikita Zeleniak](https://github.com/NikitaZelenyak) - Scrum Master (Header Section)
+- [Nikita Zeleniak](https://github.com/NikitaZelenyak) - Scrum Master (Header
+  Section)
 - [Mykhailo Startsev](https://github.com/MStartsev) - Hero Section
 - [Ilya Bond](https://github.com/cod3provider) - About Us Section
 - [Alex Smagin](https://github.com/Alexandrbig1) - Our Lessons Section
-- [Artur Didur](https://github.com/Art-of-D) - Master the Language with Our English Package Section
+- [Artur Didur](https://github.com/Art-of-D) - Master the Language with Our
+  English Package Section
 - [Yuriy Staynov](https://github.com/Yuriy-St) - Our Teachers Section
-- [Galamaga Yevgen](https://github.com/EvgeniyGal) - Proposal to leave an application
+- [Galamaga Yevgen](https://github.com/EvgeniyGal) - Proposal to leave an
+  application
 - [Vladyslav Mykhalytskyi](https://github.com/vmykhali666) - Reviews Section
 - [Olga Lukianets](https://github.com/Liasique) - Footer
 
@@ -65,10 +75,10 @@ The website is structured into the following sections:
 
 ### Screenshots:
 
-![Your Energy Fitness App](/src/public/images/screenshots/energy-home1.jpg) _Caption for Screenshot 1
+![English Excellence](/src/assets/img/english.jpg) _Caption for Screenshot 1
 (Home Page)_
 
-![Your Energy Fitness App](/src/public/images/screenshots/energy-home2.jpg) _Caption for Screenshot 2
+![English Excellence](/src/assets/img/english2.jpg) _Caption for Screenshot 2
 (Home Page Dark Mode)_
 
 ## Issues

@@ -8,7 +8,7 @@ export default defineConfig({
     _global: {},
   },
   root: 'src',
-  base: '/business/',
+  base: '/english-excellence/',
   build: {
     rollupOptions: {
       input: glob.sync('./src/*.html'),
