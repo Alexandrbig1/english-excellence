@@ -1,19 +1,35 @@
 {
   "name": "english-excellence",
+  "author": "Alex Smagin",
+  "homepage": "https://github.com/Alexandrbig1/english-excellence.git",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "English",
+    "language learning",
+    "one-page website",
+    "landing-page",
+    "themes-switcher"
+  ],
+  "description": "One-page website project for an excellent English learning experience. Customize themes, choose teachers, and apply online.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sofiaprotsiv.github.io/english-excellence/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/english-excellence/",
-    "preview": "vite preview"
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "vite": "^4.0.5",
-    "glob": "^8.1.0"
+    "glob": "^8.1.0",
+    "gh-pages": "^6.1.0",
+    "@types/glob": "^8.1.0"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "swiper": "^10.2.0",
     "vite-plugin-full-reload": "^1.0.5",
