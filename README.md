@@ -116,6 +116,9 @@ functionality and user experience.
 <a href="https://github.com/alexandrbig1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://discord.gg/uzM3UNQU" target="_blank">
+<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+</a>
 <a href="https://stackoverflow.com/users/22484161/alex-smagin" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
@@ -124,8 +127,5 @@ functionality and user experience.
 </a>
 <a href="https://www.behance.net/a1126" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/uzM3UNQU" target="_blank">
-<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 </a>
 </div>
