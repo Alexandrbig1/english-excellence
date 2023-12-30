@@ -129,6 +129,6 @@ functionality and user experience.
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.upwork.com/freelancers/~0117da9f9f588056d2" target="_blank">
-  <img src="https://img.shields.io/badge/upwork-%230077B5.svg?&style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/upwork-%230077B5.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=%23167B02" alt="Upwork" style="margin-bottom: 5px;" />
 </a>
 </div>
